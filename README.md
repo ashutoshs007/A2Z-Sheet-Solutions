@@ -6,12 +6,14 @@ All A2Z Sheet Solutions
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0229-majority-element-ii) |
 | [0945-snakes-and-ladders](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0945-snakes-and-ladders) |
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0229-majority-element-ii) |
 ## Divide and Conquer

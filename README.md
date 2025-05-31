@@ -52,4 +52,20 @@ All A2Z Sheet Solutions
 |  |
 | ------- |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+## Math
+|  |
+| ------- |
+| [3637-count-number-of-balanced-permutations](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/3637-count-number-of-balanced-permutations) |
+## String
+|  |
+| ------- |
+| [3637-count-number-of-balanced-permutations](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/3637-count-number-of-balanced-permutations) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3637-count-number-of-balanced-permutations](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/3637-count-number-of-balanced-permutations) |
+## Combinatorics
+|  |
+| ------- |
+| [3637-count-number-of-balanced-permutations](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/3637-count-number-of-balanced-permutations) |
 <!---LeetCode Topics End-->

@@ -4,7 +4,7 @@ public:
         int n=nums.size();
         unordered_map<int,int>mpp;
         for(int i=0;i<n;i++){
-            int more=target-nums[i];
+            int more =target-nums[i];
             if(mpp.find(more)!=mpp.end()){
                 return{mpp[more],i};
             }

@@ -7,6 +7,7 @@ All A2Z Sheet Solutions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0001-two-sum) |
+| [0135-candy](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0135-candy) |
 | [0169-majority-element](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0229-majority-element-ii) |
 | [0945-snakes-and-ladders](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0945-snakes-and-ladders) |
@@ -72,5 +73,6 @@ All A2Z Sheet Solutions
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0135-candy) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 <!---LeetCode Topics End-->

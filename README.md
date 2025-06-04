@@ -62,6 +62,7 @@ All A2Z Sheet Solutions
 |  |
 | ------- |
 | [3637-count-number-of-balanced-permutations](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/3637-count-number-of-balanced-permutations) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -75,4 +76,12 @@ All A2Z Sheet Solutions
 | ------- |
 | [0135-candy](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0135-candy) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+## Two Pointers
+|  |
+| ------- |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+## Enumeration
+|  |
+| ------- |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 <!---LeetCode Topics End-->

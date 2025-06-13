@@ -12,6 +12,7 @@ All A2Z Sheet Solutions
 | [0169-majority-element](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0229-majority-element-ii) |
 | [0945-snakes-and-ladders](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0945-snakes-and-ladders) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Hash Table
@@ -77,6 +78,7 @@ All A2Z Sheet Solutions
 |  |
 | ------- |
 | [0135-candy](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0135-candy) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 ## Two Pointers
 |  |
@@ -91,4 +93,8 @@ All A2Z Sheet Solutions
 |  |
 | ------- |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+## Binary Search
+|  |
+| ------- |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 <!---LeetCode Topics End-->

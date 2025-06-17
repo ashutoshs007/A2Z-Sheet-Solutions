@@ -20,6 +20,7 @@ All A2Z Sheet Solutions
 | ------- |
 | [0001-two-sum](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0229-majority-element-ii) |
 ## Divide and Conquer
@@ -86,6 +87,7 @@ All A2Z Sheet Solutions
 | ------- |
 | [0015-3sum](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0015-3sum) |
 | [0141-linked-list-cycle](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0908-middle-of-the-linked-list) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Enumeration
@@ -104,6 +106,7 @@ All A2Z Sheet Solutions
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0908-middle-of-the-linked-list) |
 ## Recursion

@@ -9,18 +9,19 @@
 class Solution {
 public:
     bool hasCycle(ListNode *head) {
-        bool flag=false;
-    ListNode* temp=head;
+        ListNode* temp=head;
+        unordered_map<ListNode*,int>mpp;
+        while(temp!=NULL){
+            if(mpp.find(temp)!=mpp.end()){
+                return true;
+            }
 
-    std::unordered_map<ListNode* ,int>nodeMap;
-    while(temp!=NULL){
+            mpp[temp]=1;
+            temp=temp->next;
 
-    if(nodeMap.find(temp)!=nodeMap.end()){
-        return true;
-    }
-  nodeMap[temp]=1;
-  temp=temp->next;
-    }
-       return false; 
+        }
+
+        return false;
+        
     }
 };

@@ -8,6 +8,7 @@ All A2Z Sheet Solutions
 | ------- |
 | [0001-two-sum](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0015-3sum) |
+| [0056-merge-intervals](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0056-merge-intervals) |
 | [0135-candy](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0135-candy) |
 | [0169-majority-element](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0229-majority-element-ii) |
@@ -32,6 +33,7 @@ All A2Z Sheet Solutions
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0015-3sum) |
+| [0056-merge-intervals](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0229-majority-element-ii) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |

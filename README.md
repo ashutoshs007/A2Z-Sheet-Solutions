@@ -26,6 +26,7 @@ All A2Z Sheet Solutions
 | [0142-linked-list-cycle-ii](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0229-majority-element-ii) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -38,11 +39,13 @@ All A2Z Sheet Solutions
 | [0169-majority-element](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0229-majority-element-ii) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0229-majority-element-ii) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -71,6 +74,7 @@ All A2Z Sheet Solutions
 ## String
 |  |
 | ------- |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3637-count-number-of-balanced-permutations](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/3637-count-number-of-balanced-permutations) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Dynamic Programming
@@ -88,6 +92,7 @@ All A2Z Sheet Solutions
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Two Pointers
 |  |
 | ------- |

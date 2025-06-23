@@ -8,6 +8,7 @@ All A2Z Sheet Solutions
 | ------- |
 | [0001-two-sum](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0015-3sum) |
+| [0053-maximum-subarray](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0056-merge-intervals) |
 | [0135-candy](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0135-candy) |
 | [0169-majority-element](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0169-majority-element) |
@@ -30,6 +31,7 @@ All A2Z Sheet Solutions
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0169-majority-element) |
 ## Sorting
 |  |
@@ -80,6 +82,7 @@ All A2Z Sheet Solutions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0053-maximum-subarray) |
 | [3637-count-number-of-balanced-permutations](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/3637-count-number-of-balanced-permutations) |
 ## Combinatorics
 |  |

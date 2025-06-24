@@ -8,7 +8,7 @@ public:
 
         // Extract values into array
         while (temp != nullptr) {
-            arr.push_back(temp->val);  // ❌ fixed from head->data to temp->val
+            arr.push_back(temp->val);  
             temp = temp->next;
         }
 
@@ -18,7 +18,7 @@ public:
         // Rewrite values back to the list
         temp = head;
         for (int i = 0; i < arr.size(); i++) {
-            temp->val = arr[i];  // ❌ fixed from temp->data to temp->val
+            temp->val = arr[i];  //
             temp = temp->next;
         }
 

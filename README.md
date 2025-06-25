@@ -8,6 +8,7 @@ All A2Z Sheet Solutions
 | ------- |
 | [0001-two-sum](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0015-3sum) |
+| [0035-search-insert-position](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0056-merge-intervals) |
 | [0135-candy](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0135-candy) |
@@ -121,6 +122,7 @@ All A2Z Sheet Solutions
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0035-search-insert-position) |
 | [0287-find-the-duplicate-number](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0792-binary-search) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |

@@ -17,6 +17,7 @@ All A2Z Sheet Solutions
 | [0287-find-the-duplicate-number](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0792-binary-search) |
 | [0945-snakes-and-ladders](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0945-snakes-and-ladders) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
@@ -29,6 +30,7 @@ All A2Z Sheet Solutions
 | [0142-linked-list-cycle-ii](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0229-majority-element-ii) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Divide and Conquer
 |  |
@@ -44,6 +46,7 @@ All A2Z Sheet Solutions
 | [0148-sort-list](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0229-majority-element-ii) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Counting
@@ -68,6 +71,7 @@ All A2Z Sheet Solutions
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Shortest Path
 |  |

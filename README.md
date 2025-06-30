@@ -159,5 +159,6 @@ All A2Z Sheet Solutions
 ## Database
 |  |
 | ------- |
+| [0584-find-customer-referee](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0584-find-customer-referee) |
 | [1908-recyclable-and-low-fat-products](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->

@@ -91,6 +91,7 @@ All A2Z Sheet Solutions
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3637-count-number-of-balanced-permutations](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/3637-count-number-of-balanced-permutations) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
@@ -155,6 +156,7 @@ All A2Z Sheet Solutions
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0234-palindrome-linked-list) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Bit Manipulation
 |  |
 | ------- |

@@ -16,6 +16,7 @@ All A2Z Sheet Solutions
 | [0229-majority-element-ii](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0792-binary-search) |
+| [0940-fruit-into-baskets](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0940-fruit-into-baskets) |
 | [0945-snakes-and-ladders](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0945-snakes-and-ladders) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -31,6 +32,7 @@ All A2Z Sheet Solutions
 | [0169-majority-element](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0940-fruit-into-baskets](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0940-fruit-into-baskets) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Divide and Conquer
@@ -170,4 +172,8 @@ All A2Z Sheet Solutions
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0451-sort-characters-by-frequency) |
+## Sliding Window
+|  |
+| ------- |
+| [0940-fruit-into-baskets](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0940-fruit-into-baskets) |
 <!---LeetCode Topics End-->

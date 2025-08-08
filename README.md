@@ -86,6 +86,7 @@ All A2Z Sheet Solutions
 ## Math
 |  |
 | ------- |
+| [0826-soup-servings](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0826-soup-servings) |
 | [3637-count-number-of-balanced-permutations](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/3637-count-number-of-balanced-permutations) |
 ## String
 |  |
@@ -100,6 +101,7 @@ All A2Z Sheet Solutions
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0053-maximum-subarray) |
+| [0826-soup-servings](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0826-soup-servings) |
 | [3637-count-number-of-balanced-permutations](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/3637-count-number-of-balanced-permutations) |
 ## Combinatorics
 |  |
@@ -179,4 +181,8 @@ All A2Z Sheet Solutions
 |  |
 | ------- |
 | [0940-fruit-into-baskets](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0940-fruit-into-baskets) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0826-soup-servings](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0826-soup-servings) |
 <!---LeetCode Topics End-->

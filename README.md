@@ -86,6 +86,7 @@ All A2Z Sheet Solutions
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0231-power-of-two) |
 | [0826-soup-servings](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0826-soup-servings) |
 | [3637-count-number-of-balanced-permutations](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/3637-count-number-of-balanced-permutations) |
 ## String
@@ -154,6 +155,7 @@ All A2Z Sheet Solutions
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0234-palindrome-linked-list) |
 ## Stack
 |  |
@@ -163,6 +165,7 @@ All A2Z Sheet Solutions
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0287-find-the-duplicate-number) |
 ## Merge Sort
 |  |

@@ -104,6 +104,7 @@ All A2Z Sheet Solutions
 | ------- |
 | [0053-maximum-subarray](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0053-maximum-subarray) |
 | [0826-soup-servings](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0826-soup-servings) |
+| [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3637-count-number-of-balanced-permutations](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/3637-count-number-of-balanced-permutations) |
 ## Combinatorics
 |  |

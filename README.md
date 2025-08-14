@@ -11,6 +11,7 @@ All A2Z Sheet Solutions
 | [0035-search-insert-position](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0088-merge-sorted-array) |
 | [0135-candy](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0135-candy) |
 | [0169-majority-element](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0229-majority-element-ii) |
@@ -47,6 +48,7 @@ All A2Z Sheet Solutions
 | ------- |
 | [0015-3sum](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0229-majority-element-ii) |
@@ -122,6 +124,7 @@ All A2Z Sheet Solutions
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0015-3sum) |
+| [0088-merge-sorted-array](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0148-sort-list) |

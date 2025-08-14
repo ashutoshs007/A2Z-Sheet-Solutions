@@ -98,6 +98,7 @@ All A2Z Sheet Solutions
 | [0008-string-to-integer-atoi](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0008-string-to-integer-atoi) |
 | [0451-sort-characters-by-frequency](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3637-count-number-of-balanced-permutations](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/3637-count-number-of-balanced-permutations) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |

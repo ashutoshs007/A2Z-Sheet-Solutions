@@ -91,6 +91,7 @@ All A2Z Sheet Solutions
 | ------- |
 | [0231-power-of-two](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0231-power-of-two) |
 | [0826-soup-servings](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0826-soup-servings) |
+| [1448-maximum-69-number](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/1448-maximum-69-number) |
 | [3637-count-number-of-balanced-permutations](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/3637-count-number-of-balanced-permutations) |
 ## String
 |  |
@@ -117,6 +118,7 @@ All A2Z Sheet Solutions
 |  |
 | ------- |
 | [0135-candy](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0135-candy) |
+| [1448-maximum-69-number](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/1448-maximum-69-number) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |

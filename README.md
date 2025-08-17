@@ -91,6 +91,7 @@ All A2Z Sheet Solutions
 | ------- |
 | [0231-power-of-two](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0231-power-of-two) |
 | [0826-soup-servings](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0867-new-21-game) |
 | [1448-maximum-69-number](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/1448-maximum-69-number) |
 | [3637-count-number-of-balanced-permutations](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/3637-count-number-of-balanced-permutations) |
 ## String
@@ -108,6 +109,7 @@ All A2Z Sheet Solutions
 | ------- |
 | [0053-maximum-subarray](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0053-maximum-subarray) |
 | [0826-soup-servings](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0867-new-21-game) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3637-count-number-of-balanced-permutations](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/3637-count-number-of-balanced-permutations) |
 ## Combinatorics
@@ -192,11 +194,13 @@ All A2Z Sheet Solutions
 ## Sliding Window
 |  |
 | ------- |
+| [0867-new-21-game](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0867-new-21-game) |
 | [0940-fruit-into-baskets](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0940-fruit-into-baskets) |
 ## Probability and Statistics
 |  |
 | ------- |
 | [0826-soup-servings](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0867-new-21-game) |
 ## Prefix Sum
 |  |
 | ------- |

@@ -21,6 +21,7 @@ All A2Z Sheet Solutions
 | [0945-snakes-and-ladders](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0945-snakes-and-ladders) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2529-range-product-queries-of-powers](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/2529-range-product-queries-of-powers) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
@@ -93,6 +94,7 @@ All A2Z Sheet Solutions
 | [0826-soup-servings](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0867-new-21-game) |
 | [1448-maximum-69-number](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/1448-maximum-69-number) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3637-count-number-of-balanced-permutations](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/3637-count-number-of-balanced-permutations) |
 ## String
 |  |

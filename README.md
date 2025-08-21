@@ -13,6 +13,7 @@ All A2Z Sheet Solutions
 | [0056-merge-intervals](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0088-merge-sorted-array) |
 | [0135-candy](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0135-candy) |
+| [0136-single-number](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0287-find-the-duplicate-number) |
@@ -177,6 +178,7 @@ All A2Z Sheet Solutions
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [2529-range-product-queries-of-powers](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/2529-range-product-queries-of-powers) |

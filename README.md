@@ -27,6 +27,7 @@ All A2Z Sheet Solutions
 | [2529-range-product-queries-of-powers](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/2529-range-product-queries-of-powers) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Hash Table
 |  |
@@ -75,6 +76,7 @@ All A2Z Sheet Solutions
 | ------- |
 | [0945-snakes-and-ladders](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0945-snakes-and-ladders) |
 | [1628-count-submatrices-with-all-ones](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/1628-count-submatrices-with-all-ones) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Graph
 |  |

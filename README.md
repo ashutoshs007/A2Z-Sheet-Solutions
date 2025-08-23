@@ -21,6 +21,7 @@ All A2Z Sheet Solutions
 | [0940-fruit-into-baskets](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0940-fruit-into-baskets) |
 | [0945-snakes-and-ladders](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0945-snakes-and-ladders) |
 | [1628-count-submatrices-with-all-ones](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/1628-count-submatrices-with-all-ones) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -39,6 +40,7 @@ All A2Z Sheet Solutions
 | [0229-majority-element-ii](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0940-fruit-into-baskets](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0940-fruit-into-baskets) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Divide and Conquer
@@ -66,6 +68,7 @@ All A2Z Sheet Solutions
 | [0169-majority-element](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Breadth-First Search
 |  |
@@ -107,6 +110,7 @@ All A2Z Sheet Solutions
 | [0008-string-to-integer-atoi](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0008-string-to-integer-atoi) |
 | [0451-sort-characters-by-frequency](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3637-count-number-of-balanced-permutations](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/3637-count-number-of-balanced-permutations) |

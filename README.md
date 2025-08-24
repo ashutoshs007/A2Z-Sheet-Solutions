@@ -20,6 +20,7 @@ All A2Z Sheet Solutions
 | [0792-binary-search](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0792-binary-search) |
 | [0940-fruit-into-baskets](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0940-fruit-into-baskets) |
 | [0945-snakes-and-ladders](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0945-snakes-and-ladders) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -121,6 +122,7 @@ All A2Z Sheet Solutions
 | [0053-maximum-subarray](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0053-maximum-subarray) |
 | [0826-soup-servings](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0867-new-21-game) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3637-count-number-of-balanced-permutations](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/3637-count-number-of-balanced-permutations) |
@@ -210,6 +212,7 @@ All A2Z Sheet Solutions
 | ------- |
 | [0867-new-21-game](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0867-new-21-game) |
 | [0940-fruit-into-baskets](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0940-fruit-into-baskets) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Probability and Statistics
 |  |
 | ------- |

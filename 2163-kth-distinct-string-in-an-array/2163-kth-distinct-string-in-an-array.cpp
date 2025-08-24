@@ -1,21 +1,22 @@
 class Solution {
 public:
     string kthDistinct(vector<string>& arr, int k) {
-        map<string,int> mp;
+        int n=arr.size();
 
-        for(auto it: arr){
-            mp[it]++;
+        unordered_map<string,int>s;
+
+        for(auto i:arr){
+            s[i]++;
         }
-        for(auto it:arr){
-            if(mp[it] == 1){
-                k--;
-                if(k==0) return it;
+
+        for(auto i :arr){
+            if(s[i]==1){
+             k--;
+             if(k==0){
+                return i;
+             }
             }
         }
-
-        
-
         return "";
-        
     }
 };

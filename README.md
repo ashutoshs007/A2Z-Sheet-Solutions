@@ -17,6 +17,7 @@ All A2Z Sheet Solutions
 | [0169-majority-element](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0498-diagonal-traverse](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0498-diagonal-traverse) |
 | [0792-binary-search](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0792-binary-search) |
 | [0940-fruit-into-baskets](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0940-fruit-into-baskets) |
 | [0945-snakes-and-ladders](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0945-snakes-and-ladders) |
@@ -78,6 +79,7 @@ All A2Z Sheet Solutions
 ## Matrix
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0498-diagonal-traverse) |
 | [0945-snakes-and-ladders](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0945-snakes-and-ladders) |
 | [1628-count-submatrices-with-all-ones](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -226,4 +228,8 @@ All A2Z Sheet Solutions
 |  |
 | ------- |
 | [1628-count-submatrices-with-all-ones](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/1628-count-submatrices-with-all-ones) |
+## Simulation
+|  |
+| ------- |
+| [0498-diagonal-traverse](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0498-diagonal-traverse) |
 <!---LeetCode Topics End-->

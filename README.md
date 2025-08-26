@@ -23,6 +23,7 @@ All A2Z Sheet Solutions
 | [0945-snakes-and-ladders](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0945-snakes-and-ladders) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/1628-count-submatrices-with-all-ones) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |

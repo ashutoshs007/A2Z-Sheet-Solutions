@@ -19,6 +19,7 @@ All A2Z Sheet Solutions
 | [0189-rotate-array](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0498-diagonal-traverse](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0498-diagonal-traverse) |
 | [0792-binary-search](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0792-binary-search) |
@@ -161,6 +162,7 @@ All A2Z Sheet Solutions
 | [0148-sort-list](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0908-middle-of-the-linked-list](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0908-middle-of-the-linked-list) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |

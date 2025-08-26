@@ -18,6 +18,7 @@ All A2Z Sheet Solutions
 | [0169-majority-element](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0498-diagonal-traverse](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0498-diagonal-traverse) |
 | [0792-binary-search](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0792-binary-search) |
@@ -43,6 +44,7 @@ All A2Z Sheet Solutions
 | [0142-linked-list-cycle-ii](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0940-fruit-into-baskets](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0940-fruit-into-baskets) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -63,6 +65,7 @@ All A2Z Sheet Solutions
 | [0148-sort-list](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -106,6 +109,7 @@ All A2Z Sheet Solutions
 | ------- |
 | [0189-rotate-array](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0268-missing-number) |
 | [0826-soup-servings](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0867-new-21-game) |
 | [1448-maximum-69-number](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/1448-maximum-69-number) |
@@ -171,6 +175,7 @@ All A2Z Sheet Solutions
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0792-binary-search) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -200,6 +205,7 @@ All A2Z Sheet Solutions
 | ------- |
 | [0136-single-number](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [2529-range-product-queries-of-powers](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/2529-range-product-queries-of-powers) |
 ## Merge Sort

@@ -16,6 +16,7 @@ All A2Z Sheet Solutions
 | [0135-candy](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0498-diagonal-traverse](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0498-diagonal-traverse) |
@@ -103,6 +104,7 @@ All A2Z Sheet Solutions
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0231-power-of-two) |
 | [0826-soup-servings](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0867-new-21-game) |
@@ -152,6 +154,7 @@ All A2Z Sheet Solutions
 | [0141-linked-list-cycle](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0148-sort-list) |
+| [0189-rotate-array](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0908-middle-of-the-linked-list](https://github.com/ashutoshs007/A2Z-Sheet-Solutions/tree/master/0908-middle-of-the-linked-list) |
